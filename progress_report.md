@@ -10,3 +10,15 @@
     
    ## Data sharing plan:
    While I could share the full data/texts, I think that the best option for my "sharing plan" for this project is to provide the links for anyone who wishes to access the site, but not provide all of the data. The data that I will provide will be a select few of the texts that were posted by the site founder/manager himself. I would do this because while the texts are reported to be in the public domain by the site's creator/manager, he does leave the disclaimer that if there are any copyright claims he should be contacted. So, while he does seem to have done a thorough job in crediting his sources, I would ideally like to keep distribution of the texts to a minimum just in case. So, although anyone with a link can access the texts for themselves, I personally will not be responsible for distributing them.   
+
+## 2nd Progress Report:
+## 3/23/2021
+   ## Summary of what I've accomplished and what I'll do next: 
+   So far I've completed my data acquisition process. I cleaned the data that I got from my Spider and saved it as strings into a DataFrame (which I pickled and saved into my data folder). Along with the text and titles, the DataFrame also contains the tokenized text and token counts. I re-saved my data samples as a csv instead of as a .pkl for easier viewing--[here](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/tree/main/data_samples). 
+   Once all of my data was saved and pickled I created a new Jupyter Notebook file for my analysis portion, seperate from my Spider so that I wouldn't have to wait too long everytime I needed to re-run all the cells. [This](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/AnalysisCode.ipynb) file is dedicated to my analysis. I have begun to work on the linguistic analysis of my data. I got some basic information on the data (shape, token count stats, .info()) and then began to work on the rest. The linguistic analysis that I've done is very surface level, I have compiled the works in which each word (and its various forms) appears. Next I will begin to sort the data by genre and style. I also have some ideas about running analysis on adjectives that describe each of these nouns, but I will have to see down the road how that works out.
+   
+   ## Data sharing plan:
+   My data sharing plan is the same as discussed in my first progress report: I will provide the links to the website but I will only directly provide a small set of data samples.
+  
+   ## Licensing:
+   For my license I decided on an MIT license. I chose this license because it is a very open, short, and simple license. I want anyone to be able to do whatever they want with this data/project if they so choose and this license allows for that. 
