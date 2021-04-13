@@ -22,3 +22,10 @@
   
    ## Licensing:
    For my license I decided on an MIT license. I chose this license because it is a very open, short, and simple license. I want anyone to be able to do whatever they want with this data/project if they so choose and this license allows for that. 
+   
+## 3rd Progress Report:
+## 4/13/2021
+   ## Summary of what I have accomplished and what I'll do next:
+   My [analysis code](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/AnalysisCode.ipynb) has been coming along and I am almost done! Specifically I have been able to classify each text's style (being written in either prose or verse) using methods and .map(). As for [data](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/LatLibSpider.ipynb) I have brought in the eras of each author (as I realized that I had not included that previously) so that I can better analyze my data. I also ended up dropping some bad data from my set. 
+   My analysis has yielded some interesting results: there are significantly more works in my data written in prose than in verse (it's about a 70-30 split) and while that is mostly reflected in my sword word data, the word "capulus" appears more in verse than in prose. I suspect that this is because of the need for metrical conformity in poetry because overall this word is the least common of the sword words. I intend to merge these DataFrames into my main latlib_df and use the data to build a very basic machine learning model (likely Naive Bayes) to predict the likliness of a word being used based on style, author, and era.
+   So, my next steps are to merge the DataFrames, build a MLmodel, use it to predict which words are most likely to be chosen, then compare this with the actual data available. I have chosen to do this because my analysis on sword words and their appearances is almost complete and will leave some time before my presentation to try out machine learning!
