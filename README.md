@@ -2,7 +2,7 @@
 <p>Frances Harrington, frh19@pitt.edu, 5/2/2021</p>
 <p>Frances Harrington's term project about the analysis of the frequency and context of Latin words for "sword" in primary documents.</p>
 <p>My data comes from the [Latin Library website](https://www.thelatinlibrary.com/) long mainted by William L. Carey. I did not find this data set recently, this is a resource that I've used since high school to read texts in Latin. It contains a multitude of works in the original Latin.</p>
-## Directory:
+## Directory
    + [Data Samples](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/tree/main/data_samples) These are samples of my data.
    + [Analysis code](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/AnalysisCode.ipynb) Here is where I completed my analysis portion of the project. [Here](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/AnalysisCode.ipynb) is the nbviewer version.
     + [License](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/LICENSE.md) This is the license for the project.
