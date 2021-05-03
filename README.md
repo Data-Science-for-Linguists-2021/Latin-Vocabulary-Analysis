@@ -12,6 +12,7 @@
    - [Progress Reports](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/progress_report.md) These are my progress reports from throughout the project.
    - [Project Plan](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/project_plan.md) This is my original project plan.
    - [Images](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/tree/main/Images) This is where I stored my charts/graphics from my analysis portion.
+   - [Final Report](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/final_report.md) This is my final report on the project.
 
 ## Guestbook:
 [Here](https://github.com/Data-Science-for-Linguists-2021/Class-Lounge/blob/main/guestbooks/guestbook_frances.md) is a link to my guestbook!
