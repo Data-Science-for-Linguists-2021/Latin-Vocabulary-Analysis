@@ -9,5 +9,5 @@
    Once I had my categories set the next part involving data cohesion was to organize the data based on which "sword word" appeared in the texts. The words--gladius, ferrum, mucro, ensis, capulus, and all of their forms--were used to construct five new DataFrames containing all of the information present in the main DataFrame. Each of these new DataFrames only consist of works wherein the word in question appears.
    With the data organized, next I will cover my analysis portion of the project.
 # Analysis
-   The analysis portion of my project took place entirely in my [Analysis JupyterNotebook](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/AnalysisCode.ipynb). Here I looked into the overall split of the data between prose and verse, the overall era splits, as well as the more specific analysis of the "sword words". Here are some basic numerical stats about the data ![](/Users/francesharrington/Documents/statsimage.png).
-   While 
+   The analysis portion of my project took place entirely in my [Analysis JupyterNotebook](https://github.com/Data-Science-for-Linguists-2021/Latin-Vocabulary-Analysis/blob/main/AnalysisCode.ipynb). Here I looked into the overall split of the data between ![prose and verse](pv_whole_split.png), ![the overall era splits](era_split.png), as well as the more specific analysis of the "sword words".
+   While looing at the specific vocabulary I also charted the prose/verse splits and era splits for each word. This
